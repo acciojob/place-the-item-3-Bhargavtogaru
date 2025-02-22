@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	background-color:black;
+	color:white;
+	border-radius:20px;
+	
+}
